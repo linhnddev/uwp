@@ -4,7 +4,7 @@
 - I builds app for Windows 10
 - Some apps may use services like Google, Microsoft, Twitch. Please read the below section for more information about what my apps collect
 
-## Information My Apps collect and does not collect:
+## Information My Apps collect and do not collect:
 - My apps only collect loging and event information about the Device and app itseft for analytic purpose
 - I do not collect all sensitive user information like username, password. All information of user are saved encrypted locally in app folder
 
