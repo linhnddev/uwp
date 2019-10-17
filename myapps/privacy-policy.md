@@ -9,4 +9,4 @@
 - I do not collect all sensitive user information like username, password, oauth token. All information of user are saved encrypted locally in app folder
 
 ## Ads in app:
-- My apps use Ads service for monetizing purpose. Some ads may be inappropiate or link to scam websites. Please be very careful after click on those unknown ad banners
+- My apps use Ads service for monetizing purpose. Some ads may be inappropiate or linked to scam websites. Please be very careful after click on those unknown ad banners
