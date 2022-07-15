@@ -3,7 +3,7 @@
 By downloading and using our applications. Our users have accepted our below terms and policies.
 
 ## Introduction
-- I builds app for Windows 10
+- I build app for Windows 10, 11
 - Some apps may use services like Google, Microsoft, Twitch. Please read the below section for more information about what my apps collect
 
 ## Information My Apps collect and do not collect:
